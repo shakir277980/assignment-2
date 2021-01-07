@@ -120,16 +120,16 @@ public class ass2 {
 	 System.out.println("Discount: "+ discount);
 	 
 				
-	 System.out.println("Before you go back, let's pick one that you like and go redeem your coupon! Interesting isn't it!?");
-		String [] lucky = {"Cable phone", "Casing", "Tinted phone"};
+	 System.out.println("Before you go back, You can get your coupon at the counter after u paided");
+		String [] jackpot = {"Cable phone", "Casing", "Tinted phone"};
 		
 		int index =0;
-		while (index<lucky.length) {
-			System.out.println(lucky[index]);
+		while (index<jackpot.length) {
+			System.out.println(jackpot[index]);
 			index++;
 		}
 		System.out.println();
-		System.out.println("***************THANK YOU MY BELOVED CUSTOMER, HOPE TO SEE YOU AGAIN!***************");
+		System.out.println("***************THANK YOU COME TO MSZ STORE, HOPE U ENJOYED BUYING IN MSZ STORE!***************");
 					
 				
 				
